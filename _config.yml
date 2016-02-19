@@ -1,7 +1,7 @@
 name: pleatsanddarts
 favicon: null
-layout_spectrum: 0.4109383400063962
-typography_spectrum: 0.1680197597015649
+layout_spectrum: 0.74536
+typography_spectrum: 0.38048
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.2440257021225989
-  lightness: 0.997894317144528
-  saturation: 0.5903325411491096
-  rhythmicContrast: 0.4154416637029499
+    - '#dd4280'
+    - '#3c2961'
+    - '#d8d994'
+    - '#5f506e'
+    - '#7e7c4c'
+  brandStrength: 0.8125
+  lightness: 0.8125
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 purpose: []
