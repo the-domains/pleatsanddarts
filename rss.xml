@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[pleatsanddarts]]></title>
         <description><![CDATA[pleatsanddarts]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pleatsanddarts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 15:59:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 19 Feb 2016 16:03:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pleatsanddarts/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Esther Honig:  Beauty Perceptions</p>]]></description>
-            <link>undefined32b42779-2702-406c-89a9-4e325e8f1eee/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/54093cf2-284f-46d5-82b4-1ff866ae106c.jpg">]]></description>
+            <link>https://thegrid.ai/pleatsanddarts/32b42779-2702-406c-89a9-4e325e8f1eee/index.html</link>
             <guid isPermaLink="false">32b42779-2702-406c-89a9-4e325e8f1eee</guid>
-            <pubDate>Fri, 19 Feb 2016 15:59:30 GMT</pubDate>
+            <pubDate>Fri, 19 Feb 2016 16:02:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
